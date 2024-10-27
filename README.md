@@ -12,8 +12,8 @@
 - [Contact](#contact)
 
 ## Demo
-Check out the live demo of the Tindog website [here](#).  
-*(Replace the `#` with the actual link to your deployed website)*
+Check out the live demo of the Tindog website [here](https://kushal6463.github.io/TinDog/).  
+
 
 ## Features
 - Responsive design using Bootstrap
